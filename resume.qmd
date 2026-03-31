@@ -7,8 +7,8 @@ Software Developer, Student, Actor, and Homie!
 
 <div id="webaddress">
   <a href="https://www.linkedin.com/in/jackson-aden-a429a12b3/">My LinkedIn page</a>
-<!-- | <a href="https://bearbait16.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
+<!-- | <a href="https://github.com/BearBait16/jacksonaden.github.io/blob/main/Jackson-Aden-Resume.pdf">Download PDF</a> -->
+| <a href="https://github.com/BearBait16/jacksonaden.github.io/blob/main/Jackson-Aden-Resume.pdf">Download PDF</a>
 </div>
 
 
