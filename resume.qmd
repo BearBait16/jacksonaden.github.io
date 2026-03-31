@@ -6,9 +6,8 @@ title: Jackson Aden's CV
 Software Developer, Student, Actor, and Homie!
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="https://www.linkedin.com/in/jackson-aden-a429a12b3/">My LinkedIn page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
+  <a href="https://www.linkedin.com/in/jackson-aden-a429a12b3/">My LinkedIn page</a>
+<!-- | <a href="https://bearbait16.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
 | <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
 </div>
 
