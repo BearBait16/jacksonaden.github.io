@@ -8,7 +8,7 @@
 
 <meta name="author" content="Jackson Aden">
 
-<title>Senior Project - yourdasa.com – Jackson Aden - Data Science Portfolio</title>
+<title>yourdasa.com – Jackson Aden - Data Science Portfolio</title>
 <style>
 
 code{white-space: pre-wrap;}
@@ -4238,8 +4238,8 @@ vertical-align: -.125em;
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page-right">
-      <h1 class="title">Senior Project - yourdasa.com</h1>
-            <p class="subtitle lead">Course DS 250</p>
+      <h1 class="title">yourdasa.com</h1>
+            <p class="subtitle lead">Senior Project</p>
                       </div>
   </div>
     
@@ -4324,11 +4324,29 @@ vertical-align: -.125em;
    
   <ul>
   <li><a href="#what-is-yourdasa" id="toc-what-is-yourdasa">What is yourdasa?</a></li>
+  <li><a href="#how-does-this-have-anything-to-do-with-machine-learning" id="toc-how-does-this-have-anything-to-do-with-machine-learning">How does this have anything to do with Machine Learning?</a></li>
   </ul>
 </nav>
 <section id="what-is-yourdasa" class="level3">
 <h3 class="anchored" data-anchor-id="what-is-yourdasa">What is yourdasa?</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img role="img" src="images/yourdasaWebsite.png" class="img-fluid figure-img" style="width:70.0%"></p>
+<figcaption>Website Screenshot</figcaption>
+</figure>
+</div>
 <p>Small businesses on social media are often run by students or parents who are incredibly busy with other things in their lives. We know that bigger businesses have whole teams of data analysts to help the CEO make decisions. Small businesses don’t have the resources to do anything even similar. DASA is where we find the solution. DASA stands for Data Analysis Super Assistant. It breaks down your JSON data from Instagram and helps you understand the overall sentiment toward your product, showing graphs just like a data analyst would.</p>
+</section>
+<section id="how-does-this-have-anything-to-do-with-machine-learning" class="level2">
+<h2 class="anchored" data-anchor-id="how-does-this-have-anything-to-do-with-machine-learning">How does this have anything to do with Machine Learning?</h2>
+<p><a href="https://yourdasa.com">yourdasa.com</a> is a publicly accessible website, built from the ground up, full stack in 6 months. Small businesses that have an Instagram businesses page can download a json file of every DM. There are machine learning models on <a href="https://huggingface.co/">HuggingFace</a> that accept statements, and return a sentiment. One of these models is <a href="https://huggingface.co/finiteautomata/bertweet-base-sentiment-analysis">bertweet-base-sentiment-analysis</a>, designed to output sentiment scores. These sentiment scores can be output as graphs!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img role="img" src="images/graph3.png" class="img-fluid figure-img" style="width:70.0%"></p>
+<figcaption>Example Graph</figcaption>
+</figure>
+</div>
+<p>These ML models run on a Linux server, and are handled by endpoints in a Flask application. The graphs are generated using ggplot, a library used in both python and R! The Machine Learning model is opensource and fantastic!</p>
 
 
 </section>
