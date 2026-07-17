@@ -66,7 +66,7 @@
     "section": "",
     "text": "Website Screenshot\n\n\nSmall businesses on social media are often run by students or parents who are incredibly busy with other things in their lives. We know that bigger businesses have whole teams of data analysts to help the CEO make decisions. Small businesses don’t have the resources to do anything even similar. DASA is where we find the solution. DASA stands for Data Analysis Super Assistant. It breaks down your JSON data from Instagram and helps you understand the overall sentiment toward your product, showing graphs just like a data analyst would.",
     "crumbs": [
-      "Machine Learning",
+      "Machine Learning/Large Language Models",
       "Project 1"
     ]
   },
@@ -77,7 +77,7 @@
     "section": "How does this have anything to do with Machine Learning?",
     "text": "How does this have anything to do with Machine Learning?\nyourdasa.com is a publicly accessible website, built from the ground up, full stack in 6 months. Small businesses that have an Instagram businesses page can download a json file of every DM. There are machine learning models on HuggingFace that accept statements, and return a sentiment. One of these models is bertweet-base-sentiment-analysis, designed to output sentiment scores. These sentiment scores can be output as graphs!\n\n\n\nExample Graph\n\n\nThese ML models run on a Linux server, and are handled by endpoints in a Flask application. The graphs are generated using ggplot, a library used in both python and R! The Machine Learning model is opensource and fantastic!",
     "crumbs": [
-      "Machine Learning",
+      "Machine Learning/Large Language Models",
       "Project 1"
     ]
   },
@@ -88,7 +88,7 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Machine Learning",
+      "Machine Learning/Large Language Models",
       "Project 3"
     ]
   },
@@ -422,7 +422,7 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Machine Learning",
+      "Machine Learning/Large Language Models",
       "Project 4"
     ]
   },
@@ -433,7 +433,7 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Machine Learning",
+      "Machine Learning/Large Language Models",
       "Project 5"
     ]
   },
@@ -444,7 +444,7 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Machine Learning",
+      "Machine Learning/Large Language Models",
       "Project 2"
     ]
   },
@@ -455,6 +455,7 @@
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
+      "Machine Learning/Large Language Models",
       "Machine Learning"
     ]
   },
@@ -465,20 +466,21 @@
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
+      "Machine Learning/Large Language Models",
       "Machine Learning"
     ]
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "about me",
+    "title": "Jackson Aden",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "Jackson Aden Outside Professional Photo\n\n\nI’m Jackson Aden! A backend software engineer whose certified in Programming, Data Science, and Software Architecture. I love learning more about the world using data from all over the place!\nI love telling stories in different ways! I’m a huge Dungeouns and Dragons fan, I perform on stage in a bunch of different capacities, and I play around trying to make video games in my free time!\n\n\nMarkDown Basics"
   },
   {
     "objectID": "index.html#title-2-header",
     "href": "index.html#title-2-header",
-    "title": "about me",
+    "title": "Jackson Aden",
     "section": "",
     "text": "MarkDown Basics"
   }
