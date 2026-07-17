@@ -27,7 +27,7 @@ execute:
 
 ### What is yourdasa?
 
-![Website Screenshot](images/yourdasaWebsite.png){width=70%}
+![Website Screenshot](../Images/yourdasaWebsite.png){width=70%}
 
 Small businesses on social media are often run by students or parents who are incredibly busy with other things in their lives. 
 We know that bigger businesses have whole teams of data analysts to help the CEO make decisions. Small businesses don’t have the 
@@ -42,7 +42,7 @@ Small businesses that have an Instagram businesses page can download a json file
 on [HuggingFace](https://huggingface.co/) that accept statements, and return a sentiment. One of these models is [bertweet-base-sentiment-analysis](https://huggingface.co/finiteautomata/bertweet-base-sentiment-analysis),
 designed to output sentiment scores. These sentiment scores can be output as graphs!
 
-![Example Graph](images/graph3.png){width=70%}
+![Example Graph](../Images/graph3.png){width=70%}
 
 These ML models run on a Linux server, and are handled by endpoints in a Flask application. The graphs are generated using ggplot, a library
 used in both python and R! The Machine Learning model is opensource and fantastic!

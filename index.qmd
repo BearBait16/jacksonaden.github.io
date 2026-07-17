@@ -5,7 +5,7 @@ subtitle: "Software Engineer, learning through Data Analytics"
 ---
 
 # Who am I?
-![Jackson Aden Outside Professional Photo](images/nicePic.png)
+![Jackson Aden Outside Professional Photo](Images/nicePic.jpg)
 
 I'm Jackson Aden! A backend software engineer whose certified in Programming, Data Science, and 
 Software Architecture. I love learning more about the world using data from all over the place! 
