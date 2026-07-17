@@ -29,7 +29,7 @@ website:
         file: exploration.qmd
       - text: "Story Telling"
         file: story_telling.qmd
-      - text: "Machine Learning"
+      - text: "Machine Learning/Large Language Models"
         file: ml.qmd
       - text: "Full Stack"
         file: full_stack.qmd

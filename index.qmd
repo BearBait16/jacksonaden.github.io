@@ -1,10 +1,21 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
+title: "Jackson Aden"
+subtitle: "Software Engineer, learning through Data Analytics"
 # use quarto markdown to 
 ---
 
-# Title 1 Header
+# Who am I?
+![Jackson Aden Outside Professional Photo](images/nicePic.png)
+
+I'm Jackson Aden! A backend software engineer whose certified in Programming, Data Science, and 
+Software Architecture. I love learning more about the world using data from all over the place! 
+
+
+
+I love telling stories in different ways! I'm a huge Dungeouns and Dragons fan, I perform on stage
+in a bunch of different capacities, and I play around trying to make video games in my free time!
+
+
 ## Title 2 Header
 
 [MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
